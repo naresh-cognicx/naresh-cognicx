@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Naresh Kumar.K
 - 👀 I have knowledge in Java, Basic DSA, HTML, CSS, and Basic TypeScript.
-- 🌱 Currently, I’m working at @Cognicx https://www.cognicx.com/
+- 🌱 Currently, I’m working at @Cognicx www.cognicx.com
 
 
 <!---
